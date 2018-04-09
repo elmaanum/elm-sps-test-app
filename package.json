@@ -1,0 +1,19 @@
+{
+  "name": "@elmaanum/elm-sps-test-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@spscommerce/colors": "^1.18.0",
+    "@spscommerce/test-package": "^1.0.2"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.1.5"
+  }
+}
